@@ -1,4 +1,4 @@
-# Algorihtms on Graphs: Finding an Exit from a Maze
+# Algorihtms on Graphs: Finding an Exit from a Maze (Reachability)
 
 __Repository Description:__
 <br/>
